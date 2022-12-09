@@ -63,3 +63,4 @@ $ git clone https://github.com/antuniooh/chuu-da-loona.git
 ```
 
 Enable developer mode in your chrome browser at chrome://extensions. Select "Load unpacked" and point to this repository.
+
